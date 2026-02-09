@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "LiveTileHost": {
+      "commandName": "MsixPackage"
+    }
+  }
+}

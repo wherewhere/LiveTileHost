@@ -1,0 +1,3 @@
+[submodule "LiveTileHost/NotificationsVisualizerLibrary"]
+	path = LiveTileHost/NotificationsVisualizerLibrary
+	url = https://github.com/wherewhere/NotificationsVisualizerLibrary.git
